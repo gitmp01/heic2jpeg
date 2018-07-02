@@ -5,6 +5,6 @@ Are you desperately finding a python program that converts heic images contained
 
 #### Requirements
 
-- (tifig)[https://github.com/monostream/tifig]
+- [tifig](https://github.com/monostream/tifig)
 
 Clone and enjoy!
