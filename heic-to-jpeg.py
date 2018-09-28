@@ -5,7 +5,6 @@ import subprocess
 from os import listdir
 from os.path import isfile, join
 
-# Path
 if len(sys.argv) != 2:
     print 'usage python c.py path_to_directory_containing_images'
 else:
